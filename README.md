@@ -1,6 +1,6 @@
 # Description
 
-A boilerplate for quickly bootstrapping a express with the minimum dependencies that are required in order to start coding right away.
+A boilerplate for quickly bootstrapping an express node.js application with the minimum dependencies that are required in order to start coding right away.
 
 ## Commands
 
@@ -17,6 +17,7 @@ npm run format
 
 ## Tech Stack
 
+- **Run-Time:** [Node.js](https://nodejs.dev/)
 - **Language:** [Typescript](https://www.typescriptlang.org/)
 - **Framework:** [Express](https://expressjs.com/)
 - **Code Formatter:** [Prettier](https://prettier.io/)

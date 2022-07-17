@@ -1,7 +1,7 @@
 {
   "name": "express-boilerplate",
   "version": "1.0.0",
-  "description": "About",
+  "description": "A boilerplate for quickly bootstrapping your express project",
   "main": "index.ts",
   "scripts": {
     "dev": "nodemon src/index.ts",
